@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on **Web3 Projects**, building cool stuff around smart contracts and DeFi.
 - 🌱 I’m learning **Solidity**, **Foundry**, and **zk-SNARKs**.
-- 👯 I’m looking to collaborate on **open-source projects**, especially around **blockchain** and **AI x Web3**.
 - 🎯 I aim to bridge the gap between **decentralized infrastructure** and **mainstream adoption**.
 - ⚡ Fun fact: I’m into guitar 🎸, Olympic shooting 🎯, and community building 🧠.
 
@@ -38,7 +37,7 @@
 
 ### 📫 Connect With Me
 
-- Twitter: [@sanu_eth](https://x.com/__MightySonu)
+- Twitter: [@cosmoai.eth](https://x.com/__MightySonu)
 - Telegram: [@sanu2002](https://t.me/sanu2002)
 - Dev Blog: Coming soon...
 
