@@ -38,16 +38,13 @@
 ### 📫 Connect With Me
 
 - Twitter: [@cosmoai.eth](https://x.com/__MightySonu)
-- Telegram: [@sanu2002](https://t.me/sanu2002)
-- Dev Blog: Coming soon...
-
+- Telegram: [@sanujitmajhi](@sanujitmajhi)
 ---
 
 ### ✨ Fun Repositories
 
-- 🧾 [Web3 Resume Builder with Sign Protocol](https://github.com/sanu2002/web3-resume-builder)
 - 🧪 [DeFi Smart Contracts using Foundry](https://github.com/sanu2002/checkup)
-- 🎯 [zk-SNARKs Playground](https://github.com/sanu2002/zk-snark-verification)
+
 
 ---
 
