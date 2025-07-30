@@ -41,7 +41,7 @@
 
 ### 📫 Connect With Me
 
-- Twitter: [@cosmoai.eth](https://x.com/__MightySonu)
+- Twitter: [@cosmoai.eth](https://x.com/sanujitmajhi_07)
 - Telegram: [@sanujitmajhi](@sanujitmajhi)
 ---
 
