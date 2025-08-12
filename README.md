@@ -43,7 +43,7 @@
 
 - Twitter: [@cosmoai.eth](https://x.com/sanujitmajhi_07)
 - Telegram: [@sanujitmajhi](@sanujitmajhi)
-- Website : protfolio1-coral.vercel.app
+- Website : [protfolio1-coral.vercel.app]
 ---
 
 ### ✨ Fun Repositories
